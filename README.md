@@ -13,7 +13,9 @@ This project explores the drivers of individual medical insurance charges throug
   * **Manual clustering** based on domain insights (smoker, BMI, charges)
   * **K-Means (unsupervised learning)** with Elbow Method
 * Feature importance analysis using Random Forest
+* **Real-world implications** for healthcare risk stratification, preventive strategies, and insights relevant to insurance cost management
 
+  
 ---
 
 ## Dataset
