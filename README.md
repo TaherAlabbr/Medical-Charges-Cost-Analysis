@@ -1,6 +1,6 @@
 # Medical Charges Cost Analysis — EDA, Statistical Testing & Risk Segmentation
 
-This project explores the drivers of individual medical insurance charges through **exploratory data analysis**, **statistical testing**, and **risk-based clustering**—both manual and unsupervised.
+This project explores the drivers of individual medical insurance charges through **in-depth exploratory data analysis**, **statistical testing**, and **risk-based clustering**—both manual and unsupervised.
 
 ---
 
