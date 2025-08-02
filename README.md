@@ -64,9 +64,9 @@ Each group was analyzed by age and sex distributions for interpretation.
 * Used **Elbow Method** to select **k = 3**
 * Clusters closely matched manual risk tiers:
 
-  * Cluster 0: Low Risk
+  * Cluster 0: High Risk
   * Cluster 1: Medium Risk
-  * Cluster 2: High Risk
+  * Cluster 2: Low Risk
 
 ---
 
