@@ -82,6 +82,6 @@ Each group was analyzed by age and sex distributions for interpretation.
 ---
 ## Contact
 
-**Author:** Taher Alabbar
+**Author:** Taher Alabbar  
 **Email:** [t.alabbar.ca@gmail.com](mailto:t.alabbar.ca@gmail.com)  
 [**LinkedIn**](https://www.linkedin.com/in/taher-alabbar/)
