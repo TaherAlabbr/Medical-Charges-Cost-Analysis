@@ -80,9 +80,8 @@ Each group was analyzed by age and sex distributions for interpretation.
 * **Modeling**: Random Forest for feature importance
 
 ---
+## Contact
 
-## Takeaways
-
-* Lifestyle factors like **smoking** and **BMI** are dominant cost drivers
-* **Clustering effectively stratifies individuals into actionable risk profiles**
-* Findings support preventive health strategies, insurance modeling, and cost forecasting
+**Author:** Taher Alabbar
+**Email:** [t.alabbar.ca@gmail.com](mailto:t.alabbar.ca@gmail.com)  
+[**LinkedIn**](https://www.linkedin.com/in/taher-alabbar/)
